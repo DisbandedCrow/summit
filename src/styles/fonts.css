@@ -1,0 +1,11 @@
+/* Set Verdana as the primary font for the entire application */
+@layer base {
+  html,
+  body {
+    font-family: Verdana, Geneva, sans-serif;
+  }
+  
+  * {
+    font-family: Verdana, Geneva, sans-serif;
+  }
+}
